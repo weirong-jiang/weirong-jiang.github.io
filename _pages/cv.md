@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Engineering, University of Southern California, 2010
+* M.S. in Control Sciense and Engieering, Tsinghua University, 2006
+* B.S. in Automation, Tsinghua University, 2004
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 04/2020 - now: Software Engineer
+  * ByteDance / TikTok, USA
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* 12/2015 - 04/2020: Software Engineer
+  * Google, USA
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* 10/2012 - 12/2015: Research Engineer
+  * Xilinx Research Labs, USA
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
